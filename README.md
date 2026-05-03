@@ -6,7 +6,7 @@ This portfolio covers projects across computer vision, predictive modeling, and 
 
 Take a look to my Notion Portfolio ➡︎ 
 
-Take a look to my Linkedin ➡︎ 
+Take a look to my Linkedin ➡︎ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-g-888389236/?locale=en-US)
 
 
 
